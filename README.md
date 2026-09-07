@@ -9,6 +9,10 @@ Density is calculated using TEOS-10 through the Python `gsw` package.
 
 https://ocean-conversion-calculator.streamlit.app/
 
+# CRM info
+
+https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html
+
 ## Run locally
 
 ```bash
