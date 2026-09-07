@@ -5,6 +5,10 @@ concentration conversions.
 
 Density is calculated using TEOS-10 through the Python `gsw` package.
 
+# Calculator Link
+
+(https://ocean-conversion-calculator.streamlit.app/)[https://ocean-conversion-calculator.streamlit.app/]
+
 ## Run locally
 
 ```bash
